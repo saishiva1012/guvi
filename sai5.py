@@ -1,6 +1,6 @@
 s,d,f=input().split()
 if s.isalpha() or d.isalpha() or f.isalpha():
-    print("Invalid")
+    print("invalid")
 else:
     s=int(s)
     d=int(d)
